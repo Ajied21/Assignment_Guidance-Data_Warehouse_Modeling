@@ -1,7 +1,7 @@
 # DBT Playground for teaching
 
 <div style="text-align: center;">
-  <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" width="700">
+  <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" width="500">
 </div>
 
 ## Prerequisites
