@@ -1,5 +1,8 @@
 # DBT Playground for teaching
 
+<div style="text-align: center;">
+  <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" width="700">
+</div>
 
 ## Prerequisites
 - Docker 
